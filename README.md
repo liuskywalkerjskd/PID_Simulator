@@ -14,7 +14,7 @@
   - 阶跃响应
   - 正弦波跟踪
 - **高级 PID 功能**：
-  - 微分先行（Derivative on Measurement）
+  - 测量值微分（Derivative on Measurement）
   - 积分分离
   - 积分限幅（抗饱和）
 - **噪声模拟**：添加反馈噪声以模拟真实世界条件
